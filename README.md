@@ -4,6 +4,6 @@ This repository contains code to reproduce the experiments in the paper"Diet4Pat
 # folders and files
 
 /dataset contains training, validation, testing and OOD data for P-DietCMR.   
-/APIs Contains code for calling the API to conduct experiments.    
+/APIs contains code for calling the API to conduct experiments.    
 /fine-tuning contains the code for instruction tuning.
 
